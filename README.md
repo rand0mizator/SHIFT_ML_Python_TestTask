@@ -11,4 +11,5 @@
 • JSON-логирование запросов и ответов сервиса.</br>
 • Способность сборки и запуска проекта через Docker.</br>
 </br>
-https://www.geeksforgeeks.org/opencv-counting-the-number-of-black-and-white-pixels-in-the-image/
+https://www.geeksforgeeks.org/opencv-counting-the-number-of-black-and-white-pixels-in-the-image/</br>
+https://stackoverflow.com/a/60630148
